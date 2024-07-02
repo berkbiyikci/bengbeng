@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+//Bengünün dersleri
+
 int magicNumber = 7;
 
 double magicDoubleNumber = 7.2;
